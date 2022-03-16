@@ -1,0 +1,27 @@
+
+
+.titlered
+{
+    color:black;
+    text-align: center;
+    color: blueviolet;
+    
+}
+h3{
+    text-align: center;
+}
+html{
+    background: rgb(206, 193, 199);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+font-family: 'Times New Roman', Times, serif;
+}
+.test{
+    display: flex;
+ justify-content:space-around; 
+
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+}
